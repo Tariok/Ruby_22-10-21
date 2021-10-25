@@ -1,0 +1,13 @@
+Jean-Michel Concierge,Féfé est de Bordeaux
+,
+,
+,
+,
+,
+#<View:0x0000560cbc60e748>,
+#<View:0x000055d948702a20>,
+"{:content=>""Balbla"", :author=>""author""}",
+"{:content=>""Balbla"", :author=>""author""}",
+"[:content, :author]","[""Balbla"", ""author""]"
+"[:content, :author]","[""Balbla"", ""author""]"
+"[:content, :author]","[""TtTT"", ""fehFRUHEFZ""]"
